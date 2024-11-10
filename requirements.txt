@@ -1,5 +1,6 @@
 streamlit
 pandas==2.1.1
 plotly==5.22.0
-st-aggrid
+streamlit-aggrid
 openpyxl==3.1.2
+
