@@ -3,4 +3,4 @@ pandas
 plotly==5.22.0
 streamlit-aggrid
 openpyxl
-
+xlsxwriter
