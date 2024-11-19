@@ -106,7 +106,7 @@ st.markdown(
 
   
 # Carregar os dados
-file_path = 'relatorio4.xlsx'  # Atualize o caminho para o seu arquivo
+file_path = 'relatorio10_11exc.pdf.xlsx'  # Atualize o caminho para o seu arquivo
 df = pd.read_excel(file_path)
 
 # Renomear colunas para visualização
