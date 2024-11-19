@@ -466,7 +466,8 @@ if st.session_state.exibir_grafico:
         "junho_julho": 1190,
         "julho_agosto": 833,
         "agosto_setembro": 1280,
-        "setembro_outubro": 1014
+        "setembro_outubro": 1014,
+        "outubro_novembro": 1129
         
     }
 
